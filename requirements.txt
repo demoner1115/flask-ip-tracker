@@ -1,4 +1,3 @@
-flask
-Flask-Limiter
+Flask
 geoip2
-black
+maxminddb
